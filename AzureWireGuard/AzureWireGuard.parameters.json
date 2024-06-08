@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "code": {
-      "value": "xeaaf7dc"
+      "value": "fintexwireguard"
     },
     "adminUsername": {
       "value": "vmadmin"
     },
     "adminPassword": {
-      "value": "A_Really_Str0ng_P@ssw0rd"
+      "value": "ZnttEbE78jiPB6zhFLy4"
     },
     "location": {
-      "value": "eastus2"
+      "value": "canadacentral"
     },
     "vmSize": {
       "value": "Standard_DS2_v2"
